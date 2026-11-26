@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Minhas senhas!
+
+.env
+*.log
+dados_sensiveis/
