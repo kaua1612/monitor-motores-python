@@ -21,10 +21,10 @@ MTR-04  |  61.0  |  11.5A  |  1.8 mm/s  |  1780
 >#### Abra uma issues para retirar-mos suas dúvidas! :fist_right: :fist_left:
 ---
 >Todas duvidas retiradas?
-> - [ ]Dúvida 1
-> - [ ]Dúvida 2
-> - [ ]Dúvida 3
-> - [ ]Dúvida 4
+- []Dúvida 1
+- []Dúvida 2
+- []Dúvida 3
+- []Dúvida 4
 > #### Que bom :tulip: :smiling_face_with_three_hearts:
 ---
 ###### ~~Atenciosamente o criador desse repositorio @kaua1612~~ 
